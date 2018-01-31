@@ -2,6 +2,7 @@
   "name": "Distributr Quick-Deploy",
   "description": "A flask app to distribute Azure passes with Sendgrid",
   "repository": "https://github.com/KaitoKid/Distributr-Public",
+  "addons": ["redistogo:nano"],
   "logo": "https://i.imgur.com/KJrVRcQ.png",
   "keywords": ["flask", "sendgrid", "azure"]
 }
